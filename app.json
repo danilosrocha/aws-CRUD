@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "awsCRUD",
+    "slug": "awsCRUD",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
